@@ -1,0 +1,10 @@
+Output: BOT-V
+Type  : AutoCAD PCB
+From  : PCB Document [ESC_GEMINI.PcbDoc]
+   Generated File[BOT-V.DXF]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 17:17:46 On 2023/9/1
