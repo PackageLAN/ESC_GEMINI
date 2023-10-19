@@ -1633,7 +1633,7 @@
   )
 
   (symbol (lib_id "301_Link_Pad:Pad_Square") (at 121.92 55.88 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aa894ff6-5c4e-42e9-8e98-18c05f517534)
     (property "Reference" "P8" (at 124.46 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1868,7 +1868,7 @@
   )
 
   (symbol (lib_id "301_Link_Pad:Pad_Square") (at 121.92 45.72 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c52e08e9-597d-41ac-9bc5-501eda765bad)
     (property "Reference" "P7" (at 124.46 44.45 0)
       (effects (font (size 1.27 1.27)) (justify left))
